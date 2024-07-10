@@ -1,4 +1,4 @@
-Bienvenue sur le dépôt Github de notre projet Python réalisé dans le cadre de notre 2A à l'ENSAE, pour le cours de Python pour la Data Science !  
+Bienvenue sur le dépôt Github de notre projet Python réalisé dans le cadre de notre 2A à l'ENSAE, pour le cours de Python pour la Data Science !  (dépot initial:https://github.com/LouisArmand0/Projet_Python/tree/main)
 
 Ce projet intitulé **"Analyse de sentiment sur les 100 meilleurs films au box office"** met en oeuvre les nombreux enseignements reçu à l'ENSAE, du webscrapping à la modélisation en passsant par le NLP et le Machine Learning. 
 
