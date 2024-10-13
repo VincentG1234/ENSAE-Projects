@@ -1,3 +1,5 @@
+##### SCRIPT POUR SELECTIONNER LES CORPUS LES PLUS DIVERS POSSIBLES ##### 
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
