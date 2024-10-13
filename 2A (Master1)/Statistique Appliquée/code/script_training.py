@@ -1,3 +1,5 @@
+#### SCRIPT POUR ENTRAINER LES MODELES DE FACON QUASi-AUTOMATIQUE ####
+
 from collections import defaultdict
 from tqdm import tqdm
 import requests
